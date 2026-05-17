@@ -1,0 +1,15 @@
+data = ('Matahari Bhakti Nendya','22064091','Bantul, DI Yogyakarta')
+print(f'Data: {data}')
+print()
+nama,nim,alamat = data
+print(f'{'NIM' :<7}: {nim}\n{'Nama':<7}: {nama}\n{'Alamat':<7}: {alamat}')
+print()
+pisahnim = tuple(nim)
+print(f"NIM: {pisahnim}")
+print()
+pisahnama = nama.split()[0]
+namadepan = tuple(pisahnama[1:])
+print(f"NAMA DEPAN: {namadepan}")
+print()
+namaterbalik = tuple(reversed(nama.split()))
+print(f"NAMA TERBALIK: {namaterbalik}")
