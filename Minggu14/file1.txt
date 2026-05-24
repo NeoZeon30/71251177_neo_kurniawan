@@ -1,0 +1,3 @@
+Pemrograman adalah keterampilan penting di era digital.
+Banyak perusahaan membutuhkan karyawan yang mampu membuat aplikasi dan sistem.
+Python adalah salah satu bahasa pemrograman yang paling populer saat ini.
